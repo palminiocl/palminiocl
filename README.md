@@ -13,13 +13,7 @@ Additionally, I serve as a **research assistant** at the **Center of Excellence 
 ---
 
 ## ⚙️ Technologies & Interests
-
-- **Backend / DevOps**: Node.js, Express, Docker, Redis, Linux, WebSockets  
-- **Frontend**: Vue.js, LitElement, Flutter  
-- **Monitoring & Infrastructure**: Grafana, Prometheus  
-- **Scientific Computing**: Python, HPC environments, radio astronomy  
-- **Cloud**: AWS ([certified](https://www.credly.com/badges/b3f7ec22-9868-480e-9343-44e0338c6f13/) in Cloud Architecture and DevOps fundamentals)  
-- **Cybersecurity**: Basic and civic-focused cybersecurity knowledge
+Node.js, Express, Docker, Linux, WebSockets, LitElement, Flutter, Grafana, Prometheus, Python, HPC, radio astronomy, AWS (certified), and cybersecurity.
 
 ---
 
@@ -27,13 +21,3 @@ Additionally, I serve as a **research assistant** at the **Center of Excellence 
 - 📻 **[Chilean Radio Concession Viewer](https://radios.palminio.cl)** – Lightweight and responsive web app to search FM/AM stations in Chile using SUBTEL open data, Leaflet, and vanilla JS
 - 🔧 **ChatBot Go Widget** – Fully customizable chat widget using LitElement + WebSocket
 - 📡 **Radio Telescope Monitoring System** – Technical contributor in an astronomy instrumentation project
-
----
-
-## 🤝 Let's connect!
-
-I’m always open to collaborating on exciting projects in web development, DevOps, data science, or scientific research platforms. Feel free to reach out:
-
-📫 lucas@palminio.cl  
-🌍 [https://palminio.cl](https://palminio.cl)  
-💼 [https://www.linkedin.com/in/palminiocl](https://www.linkedin.com/in/palminiocl)
